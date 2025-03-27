@@ -39,6 +39,8 @@ def compare(user_score: int, computer_score: int):
 
 
 def game_blackjack():
+    """game logic
+    """
     # initiate game
     user_cards = []
     computer_cards = []
